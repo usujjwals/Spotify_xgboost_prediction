@@ -1,0 +1,7 @@
+xgboost
+scikit-learn
+dmba
+pathlib
+pandas
+numpy 
+matplotlib
